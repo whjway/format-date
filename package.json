@@ -1,6 +1,6 @@
 {
   "name": "format-date-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "format date",
   "main": "index.js",
   "scripts": {
