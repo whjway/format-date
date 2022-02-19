@@ -13,6 +13,7 @@
   ],
   "author": "whjway",
   "license": "ISC",
+  "repository": "https://github.com/whjway/format-date",
   "devDependencies": {
     "terser-webpack-plugin": "^5.3.1",
     "webpack": "^5.69.1",
