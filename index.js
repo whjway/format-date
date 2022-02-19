@@ -1,5 +1,5 @@
 if (process.env.NODE_ENV === "production") {
-  module.export = require("./dist/formate-date.js");
+  module.exports = require("./dist/format-date.js");
 } else {
-  module.export = require("./dist/formate-date.min.js");
+  module.exports = require("./dist/format-date.min.js");
 }

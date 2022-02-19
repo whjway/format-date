@@ -2,12 +2,12 @@ const TerserPlugin = require("terser-webpack-plugin");
 
 module.exports = {
   entry: {
-    "formate-date": "./src/index.js",
-    "formate-date.min": "./src/index.js",
+    "format-date": "./src/index.js",
+    "format-date.min": "./src/index.js",
   },
   output: {
     filename: "[name].js",
-    library: "formateDate",
+    library: "formatDate",
     libraryTarget: "umd",
     libraryExport: "default",
   },
